@@ -1,1 +1,18 @@
 /* Write your CSS here! */
+p.first.point {
+    color: aquamarine;
+}
+p.second.point{
+    color: greenyellow;
+}
+body {
+    background-color: darkgoldenrod;
+}
+
+#mainHeading {
+    color: red;
+}
+
+p.funParagraph {
+    color: green;
+}
